@@ -1,11 +1,11 @@
-package tutorials.thirtyDaysOfCode.day7;
+package tutorials.thirtyDaysOfCode;
 
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-public class Solution {
+public class Day7 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 

@@ -1,8 +1,8 @@
-package tutorials.thirtyDaysOfCode.day11;
+package tutorials.thirtyDaysOfCode;
 
 import java.util.*;
 
-public class Solution {
+public class Day11 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int arr[][] = new int[6][6];

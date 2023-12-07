@@ -1,8 +1,8 @@
-package tutorials.thirtyDaysOfCode.day6;
+package tutorials.thirtyDaysOfCode;
 
 import java.util.*;
 
-public class Solution {
+public class Day6 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

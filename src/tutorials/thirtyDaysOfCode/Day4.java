@@ -1,11 +1,11 @@
-package tutorials.thirtyDaysOfCode.day4;
+package tutorials.thirtyDaysOfCode;
 
 import java.util.*;
 
-public class Person {
+public class Day4 {
     private int age;
 
-    public Person(int initialAge) {
+    public Day4(int initialAge) {
         // Add some more code to run some checks on initialAge
         if (initialAge > 0) {
             this.age = initialAge;
@@ -37,7 +37,7 @@ public class Person {
         int T = sc.nextInt();
         for (int i = 0; i < T; i++) {
             int age = sc.nextInt();
-            Person p = new Person(age);
+            Day4 p = new Day4(age);
             p.amIOld();
             for (int j = 0; j < 3; j++) {
                 p.yearPasses();

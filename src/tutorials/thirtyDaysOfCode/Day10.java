@@ -1,8 +1,8 @@
-package tutorials.thirtyDaysOfCode.day10;
+package tutorials.thirtyDaysOfCode;
 
 import java.io.*;
 
-public class Solution {
+public class Day10 {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 

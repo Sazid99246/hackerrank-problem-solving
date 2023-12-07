@@ -1,9 +1,9 @@
-package tutorials.thirtyDaysOfCode.day8;
+package tutorials.thirtyDaysOfCode;
 
 //Complete this code or write your own from scratch
 import java.util.*;
 
-class Solution {
+class Day8 {
     public static void main(String[] argh) {
         Map<String, Integer> phoneBook = new HashMap<String, Integer>();
         Scanner in = new Scanner(System.in);

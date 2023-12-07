@@ -1,8 +1,8 @@
-package tutorials.thirtyDaysOfCode.day1;
+package tutorials.thirtyDaysOfCode;
 
 import java.util.*;
 
-public class Solution {
+public class Day1 {
 
     public static void main(String[] args) {
         int i = 4;
