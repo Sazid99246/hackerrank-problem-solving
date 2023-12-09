@@ -42,9 +42,7 @@ class MyBook extends Book {
         System.out.println("Author: " + author);
         System.out.println("Price: " + price);
     }
-
-    // End class
-}
+} // End class
 
 public class Day13 {
 
