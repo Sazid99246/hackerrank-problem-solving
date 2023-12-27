@@ -16,11 +16,12 @@ public class Day29 {
             for (int j = 1; j < N; j++) {
                 for (int k = j + 1; k <= N; k++) {
                     int h = j & k;
-                    if (h < K && max < h) max = h;
+                    if (h < K && max < h)
+                        max = h;
                 }
             }
 
             System.out.println(max);
         }
     }
-}}
+}
